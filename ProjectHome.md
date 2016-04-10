@@ -1,0 +1,1 @@
+This project is an extension of AndAR into GLES 2.0 enabling shaders such as environment mapping and refraction to be used in realtime augmented reality environments on android devices.
